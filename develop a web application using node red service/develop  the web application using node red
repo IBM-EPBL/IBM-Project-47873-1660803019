@@ -37,7 +37,7 @@
     {
         "id": "bf9996433728395e",
         "type": "ibmiot",
-        "name": "Gogul",
+        "name": "aarthi",
         "keepalive": "60",
         "serverName": "",
         "cleansession": true,
