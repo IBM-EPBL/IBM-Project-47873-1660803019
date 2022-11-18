@@ -40,3 +40,4 @@ BM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servic
 # ideation phase:
 
 @Project Design & Planning/Ideation Phase/Empathy Map.pdf
+[[click me]Empathy Map.pdf](https://github.com/IBM-EPBL/IBM-Project-47873-1660803019/files/10040625/Empathy.Map.pdf)
